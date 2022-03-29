@@ -72,13 +72,13 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Reddit',
-			icon: 'reddit',
+			icon: 'bot',
 			link: 'https://reddit.com',
 		},
 		{
 			id: '5',
 			name: 'Magister',
-			icon: 'glasses',
+			icon: 'book',
 			link: 'https://murmellius.magister.net/magister/#/agenda',
 		},
 		{
